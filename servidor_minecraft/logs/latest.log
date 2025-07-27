@@ -10958,3 +10958,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [27Jul2025 18:17:27.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> xd
 [27Jul2025 18:26:05.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [27Jul2025 18:26:05.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: t<--[HERE]
+[27Jul2025 18:30:37.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[27Jul2025 18:30:37.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: m<--[HERE]
+[27Jul2025 18:34:23.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[27Jul2025 18:34:23.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: t<--[HERE]
+[27Jul2025 18:38:45.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was killed by Jos3enriq using magic
+[27Jul2025 18:38:54.196] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Disconnected
+[27Jul2025 18:38:54.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
+[27Jul2025 18:38:54.274] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Jul2025 18:39:05.829] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.170.19.127:37167] logged in with entity id 5659 at (-243.4317276801224, 65.00133597911214, 2.9535638523514427)
+[27Jul2025 18:39:05.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[27Jul2025 18:39:05.941] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[27Jul2025 18:39:07.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[27Jul2025 18:39:07.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: k<--[HERE]
+[27Jul2025 18:42:37.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.traveloptics.tidal_grasp
+[27Jul2025 18:48:49.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[27Jul2025 18:48:49.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: i<--[HERE]
