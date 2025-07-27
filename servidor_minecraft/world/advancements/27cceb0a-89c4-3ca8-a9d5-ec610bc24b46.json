@@ -1378,6 +1378,9 @@
   },
   "rottencreatures:kill_all_rot": {
     "criteria": {
+      "rottencreatures:zombie_lackey": "2025-07-27 21:21:57 +0000",
+      "rottencreatures:skeleton_lackey": "2025-07-27 21:21:56 +0000",
+      "rottencreatures:dead_beard": "2025-07-27 21:22:39 +0000",
       "rottencreatures:swampy": "2025-07-26 01:50:57 +0000"
     },
     "done": false
@@ -1453,6 +1456,12 @@
       "bony_king": "2025-07-27 17:46:25 +0000"
     },
     "done": true
+  },
+  "rottencreatures:he_is_a_pirate": {
+    "criteria": {
+      "killed_dead_beard": "2025-07-27 21:22:39 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
