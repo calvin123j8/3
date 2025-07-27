@@ -10956,3 +10956,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [27Jul2025 18:17:19.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> esperame un rato
 [27Jul2025 18:17:24.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> xs
 [27Jul2025 18:17:27.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> xd
+[27Jul2025 18:26:05.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[27Jul2025 18:26:05.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: t<--[HERE]
