@@ -10949,3 +10949,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [27Jul2025 17:00:00.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
 [27Jul2025 17:00:00.559] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
 [27Jul2025 17:00:15.902] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6012ms or 120 ticks behind
+[27Jul2025 17:46:25.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq has made the advancement [Bony King]
