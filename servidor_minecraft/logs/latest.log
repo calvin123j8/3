@@ -16,3 +16,16 @@
 [28Jul2025 00:41:06.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [28Jul2025 00:41:06.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h<--[HERE]
 [28Jul2025 00:48:20.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq has made the advancement [Double Trouble]
+[28Jul2025 00:52:04.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq has reached the goal [Big Boy]
+[28Jul2025 00:52:35.469] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-239, y=64, z=-18} BlockPos{x=-239, y=62, z=-17}
+[28Jul2025 00:58:22.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[28Jul2025 00:58:22.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: j<--[HERE]
+[28Jul2025 00:58:30.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[28Jul2025 00:58:30.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: j<--[HERE]
+[28Jul2025 00:58:31.919] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Timed out
+[28Jul2025 00:58:31.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
+[28Jul2025 00:58:33.160] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.170.19.127:53385] logged in with entity id 24651 at (-237.79611763806474, 63.0, -24.22281288095396)
+[28Jul2025 00:58:33.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[28Jul2025 00:58:33.250] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[28Jul2025 00:58:37.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[28Jul2025 00:58:37.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h<--[HERE]
